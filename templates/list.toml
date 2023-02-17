@@ -1,16 +1,16 @@
-[fosilyze.templates.portfolio]
+[fossilyze.templates.portfolio]
 name="portfolio"
 description="Sample Portfolio plugin for Fossilyze"
 version="0.1.0"
 [fossilyze.templates.portfolio.dependencies]
 
-[fosilyze.templates.portfolio_resume]
+[fossilyze.templates.portfolio_resume]
 name="portfolio_resume"
 description="Sample Portfolio-<=>-Resume plugin for Fossilyze"
 version="0.1.0"
 [fossilyze.templates.portfolio_resume.dependencies]
 
-[fosilyze.templates.resume]
+[fossilyze.templates.resume]
 name="resume"
 description="Sample Resume plugin for Fossilyze"
 version="0.1.0"
