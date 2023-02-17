@@ -2,4 +2,4 @@
 name="sample_plugin"
 description="Sample Plugin for Fossilyze"
 version="0.1.0"
-dependencies=[]
+[fossilyze.plugins.sample_plugin.dependencies]
